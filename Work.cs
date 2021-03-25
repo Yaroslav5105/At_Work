@@ -5,9 +5,6 @@ public class Class1
 	public Class1()
 	{
 		int a = 3;
-<<<<<<< HEAD
-=======
-
 		double = a;
 
 
@@ -22,6 +19,5 @@ public class Class1
 
 		}
 
->>>>>>> main
 	}
 }
