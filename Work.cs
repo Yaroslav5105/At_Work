@@ -11,6 +11,13 @@ public class Class1
 
 		public void o (int ) {
 			long v = 0,3; 
+
+
+
+
+
+
+
 		}
 
 	}
